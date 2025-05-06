@@ -11,4 +11,7 @@ npm-debug.log*
 Thumbs.db
 .vscode/
 Archive
+<<<<<<< HEAD
 Workflow.md
+=======
+>>>>>>> a7eaea3007be80a61b1ccefa60cf7a9edaca331a
